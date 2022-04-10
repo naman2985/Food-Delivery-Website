@@ -1,0 +1,44 @@
+.jumbotron{
+    /*background-color:rgb(231, 55, 55);*/
+    background-image: url("img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+    margin-top:30px;
+}
+.logo1{
+    opacity:0.89;
+}
+.navbar-dark{
+    color:white;
+    background-color: black;
+}
+.row-content{
+    margin:0px auto;
+    padding:50px 0px 50px 0px;
+}
+.footer{
+    margin:50px 0px 0px 0px;
+    padding:15px 0px;
+    background-color:rgb(0, 0, 0);
+    color:white;
+}
+.carousel {
+    background: #512DA8;
+}
+
+.carousel .carousel-item {
+    height: 300px; 
+}
+
+.carousel-inner .carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+    z-index: 1;
+}
+
+a.btn{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
